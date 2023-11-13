@@ -19,7 +19,7 @@
 
 1. Откройте командную строку или терминал и перейдите в папку, где находится файл requirements.txt.
 2. Выполните команду
-3. ```bash
-4. pip install -r requirements.txt
-5. ```
-   Эта команда установит все зависимости, перечисленные в файле requirements.txt.
+```bash
+pip install -r requirements.txt
+```
+Эта команда установит все зависимости, перечисленные в файле requirements.txt.
